@@ -6,11 +6,11 @@ This is a barber html template made by codewithsadee
 #---------- HEADER ----------#
 
 <ion-icon name="call-outline" aria-hidden="true"></ion-icon>
-Call Us : 
+Call Us :
 012 (345) 67 895
 
 <ion-icon name="time-outline" aria-hidden="true"></ion-icon>
-Opening Hour :
+ Horaire :
 Sunday - Friday, 08 am - 09 pm
 
 <ion-icon name="logo-facebook"></ion-icon>
@@ -230,7 +230,7 @@ How do I get rid of unwanted hair on my face?
 Contact Us
 
 <ion-icon name="location-outline" aria-hidden="true"></ion-icon>
-7528 Roberts Ave. Palm Bay, FL 32907
+27 Arcades de Citeaux, 13127 Vitrolles
 
 <ion-icon name="call-outline" aria-hidden="true"></ion-icon>
 +012 (345) 67 89
@@ -239,8 +239,7 @@ Contact Us
 Sun - Friday, 08 am - 09 pm
 
 <ion-icon name="mail-outline" aria-hidden="true"></ion-icon>
-support@gmail.com
-
+badre.slami123@gmail.com
 &copy; 2022 codewithsadee. All Rights Reserved.
 
 
